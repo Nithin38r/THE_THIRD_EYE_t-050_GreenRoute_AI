@@ -7,7 +7,6 @@
 *Multi-objective routing · carbon accounting with full factor provenance · disruption simulation · live network map*
 
 <br>
-OUR ENTIRE PROJECT IS PRESENT INSIDE THE FINAL1.Zip FILE 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -27,7 +26,7 @@ OUR ENTIRE PROJECT IS PRESENT INSIDE THE FINAL1.Zip FILE
 </div>
 
 ---
-
+OUR ENTIRE PROJECT IS PRESENT INSIDE THE FINAL1.Zip FILE 
 ## 📖 Table of contents
 
 - [The problem](#-the-problem)
